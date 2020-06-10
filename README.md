@@ -1,1 +1,1 @@
-# template-omega, desenvolvimento com JSF e PrimeFaces
+# Template-Omega, Desenvolvimento com JSF e PrimeFaces
